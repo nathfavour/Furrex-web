@@ -6,7 +6,7 @@ on:
       - main
 
 env:
-  DOTNET_VERSION: '3.1.x'
+  DOTNET_VERSION: '5.0.x'
 
 jobs:
   build-and-deploy:
